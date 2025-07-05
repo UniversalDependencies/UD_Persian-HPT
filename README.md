@@ -28,7 +28,7 @@
 Data available since: UD v2.17
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: non-fiction
+Genre: nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
